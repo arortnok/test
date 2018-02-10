@@ -1,0 +1,13 @@
+INNA_K@PC104 MINGW32 /d/Polina/со/UP (master)
+$ git log
+commit 828add6118a2e1c538476fb64015cf8c9d9e90e9 (HEAD -> master)
+Author: arortnok <atlantis.appolinaria@gmail.com>
+Date:   Sat Feb 10 19:18:25 2018 +0200
+
+    git add /d/Polina/со/UP/task1/status.txt
+
+commit 37beef7b0e87b9cb63141ecb1916405bd817c6b2
+Author: arortnok <atlantis.appolinaria@gmail.com>
+Date:   Sat Feb 10 17:38:06 2018 +0200
+
+    add gitignore
